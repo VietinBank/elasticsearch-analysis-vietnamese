@@ -6,7 +6,7 @@ Vietnamese Analysis plugin integrates Vietnamese language analysis into Elastics
 The plugin provides the `vi_analyzer` analyzer and `vi_tokenizer` tokenizer. The `vi_analyzer` is composed of the `vi_tokenizer` tokenizer, the `lowercase` and `stop` filter.
 
 
-## Installation on Elasticsearch 5.x
+## Installation on Elasticsearch 6.x
 
 In order to install the plugin, choose a version in [releases](https://github.com/duydo/elasticsearch-analysis-vietnamese/releases) page then run:
 
